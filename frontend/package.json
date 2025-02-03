@@ -10,9 +10,11 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.20",
+    "dotenv": "^16.4.7",
     "next": "15.1.6",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "thirdweb": "^5.87.2"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
